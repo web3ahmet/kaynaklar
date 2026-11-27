@@ -9,7 +9,7 @@ Güncel kullanım sıralaması: https://openrouter.ai/rankings
 - Hy4 Flash (Tencent), çıkış haberi: https://technode.com/2026/11/16/tencent-launches-hy4-flash-cutting-ai-task-costs-by-95-in-internal-tests/
 - MiMo-V2.6 Pro (Xiaomi), çıkış haberi: https://siliconangle.com/2026/09/22/xiaomi-introduces-mimo-v2-6-series-open-source-ai-model-family/
 
-Not: Videodaki GLM fiyatını ikincil bir kaynaktan aldık; resmi sayfadan teyit et.
+Not: GLM fiyatı resmi fiyat sayfasından (docs.z.ai/guides/overview/pricing) alındı; fiyatlar değişebilir, güncelini oradan kontrol et.
 
 ## "15 sente 50 sent" ne demek?
 Model fiyatı milyon token başına iki rakamla yazılır. İlki senin gönderdiğin metin (giriş), ikincisi modelin yazdığı cevap (çıkış). "15 sente 50 sent" demek: 1 milyon token gönderirsen 0,15 dolar, 1 milyon token cevap alırsan 0,50 dolar.
